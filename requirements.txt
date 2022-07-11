@@ -20,3 +20,4 @@ dnspython
 bs4
 pyaml
 yt_dlp
+pyrogram==1.4.16
