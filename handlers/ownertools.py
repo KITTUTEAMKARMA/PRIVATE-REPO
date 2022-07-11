@@ -17,7 +17,6 @@ from callsmusic.callsmusic import client as pakaya
 from helpers.database import db
 from helpers.dbtools import main_broadcast_handler
 from helpers.decorators import sudo_users_only
-from handlers.song import humanbytes, get_text
 from config import BOT_USERNAME, OWNER_ID, SUDO_USERS, GROUP_SUPPORT
 
 
